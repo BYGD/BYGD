@@ -1,6 +1,6 @@
 ### Hey, Guy 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c7csolli&show_icons=true&theme=blueberry&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c7csolli&show_icons=true&theme=blueberry&hide=contribs,prs&locale=cn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c7csolli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
