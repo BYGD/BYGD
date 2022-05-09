@@ -1,7 +1,7 @@
 ### Hey, Guy 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c7csolli&show_icons=true&theme=blueberry&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c7csolli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BYGD&show_icons=true&theme=blueberry&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BYGD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
