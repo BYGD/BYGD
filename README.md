@@ -7,7 +7,7 @@
 
 
 <!--
-**c7csolli/c7csolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BYGD/BYGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
